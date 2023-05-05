@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movies_App</string>
+
+    <string name="name_movie">Name movie:</string>
+    <string name="my_image_description">Img</string>
+    <string name="my_text_description">Text</string>
+    <string name="movie_now_playing">Películas en cartelera:</string>
+    <string name="movie_top_rated">Películas top:</string>
+    <string name="movie_score">Calificación:</string>
+    <string name="movie_overview">Resumen:</string>
+    <string name="movie_vote_average">Voto promedio</string>
+</resources>

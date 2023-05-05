@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="movie_item_name">#A6FF1744</color>
+    <color name="movie_item_detail">#99E64764</color>
+    <color name="movie_score">#FF3D00</color>
+</resources>
