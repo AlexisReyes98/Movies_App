@@ -56,8 +56,8 @@ dependencies {
     implementation "androidx.fragment:fragment-ktx:1.5.7"
     // Activity
     implementation "androidx.activity:activity-ktx:1.7.1"
-    // Splash
-    implementation "androidx.core:core-splashscreen:1.0.0-rc01"
+    // lottie
+    implementation 'com.airbnb.android:lottie:4.2.1'
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
