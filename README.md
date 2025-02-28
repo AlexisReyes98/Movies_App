@@ -6,4 +6,4 @@ Aplicación creada en el curso de ANDROID en KOTLIN.
 
 IDE usado: Android Studio para Kotlin.
 
-API usada: SuperHero API (https://www.themoviedb.org/)
+API usada: The movie db (https://www.themoviedb.org/)
