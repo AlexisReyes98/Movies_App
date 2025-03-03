@@ -12,12 +12,12 @@ Buscador de películas 1.0.
 
 Ejecución de la App en un móvil Android:
 
-https://github.com/user-attachments/assets/29b4aa35-723a-4007-998b-f2a35d969fd4
+https://github.com/user-attachments/assets/66fec60f-f337-4da6-9a37-0674bcd71ce4
 
-![Screenshot_20250302_181655_com example movies_app](https://github.com/user-attachments/assets/64bc282e-da42-4ba6-90f4-154f25de21cc)
+![Captura de pantalla 2025-03-02 222347](https://github.com/user-attachments/assets/ca056e15-2cd1-44f0-9f4b-b9836d780e86)
 
-![Screenshot_20250302_181704_com example movies_app](https://github.com/user-attachments/assets/81cb7d94-0577-4a5e-ac3a-d91279ed9884)
+![Captura de pantalla 2025-03-02 222403](https://github.com/user-attachments/assets/a355284e-6279-4033-b8b9-2c87eb9506d6)
 
-![Screenshot_20250302_181714_com example movies_app](https://github.com/user-attachments/assets/f3f7aa7d-5722-433b-80ab-5c7929c90d65)
+![Captura de pantalla 2025-03-02 222419](https://github.com/user-attachments/assets/8b6584a4-9e87-4d15-98b5-8c883e811302)
 
-![Screenshot_20250302_181745_com example movies_app](https://github.com/user-attachments/assets/3f3616be-ebb7-4549-a176-41b62d0390a3)
+![Captura de pantalla 2025-03-02 222430](https://github.com/user-attachments/assets/3c1e2957-b186-4a55-be71-d99e4261b321)
